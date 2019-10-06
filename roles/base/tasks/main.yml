@@ -1,0 +1,8 @@
+---
+# tasks file for base
+
+- name: install xauth
+  become: yes
+  package:
+    name: xauth
+    state: present
