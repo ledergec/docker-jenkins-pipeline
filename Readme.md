@@ -75,6 +75,17 @@ plugin may give a clear hint:
 
 https://plugins.jenkins.io/workflow-durable-task-step
 
+# Crutial Jenkins Plugins:
+
+The configuration as code plugin allows configuring jenkins in a .yml file:
+https://github.com/jenkinsci/configuration-as-code-plugin/blob/master/README.md
+Here a folder with many demos of how to use the plugin can be found:
+https://github.com/jenkinsci/configuration-as-code-plugin/tree/master/demos
+
+The multibranch pipeline plugin:
+https://plugins.jenkins.io/workflow-multibranch
+https://jenkins.io/doc/book/pipeline/multibranch/
+
 # Motivation
 
 TODO
